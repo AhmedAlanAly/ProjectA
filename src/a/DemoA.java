@@ -16,4 +16,8 @@ public class DemoA {
 		System.out.println(a+b);
 	}
 
+	//Coming from GitHuB
+	public static void subtract(int a, int b) {
+		System.out.println(a-b);
+
 }
